@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @NatoAnwandter
-- 👀 I’m interested in programing and design webpages
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on new proyects
-- 📫 How to reach me ... 
+1.- Instalar Python
 
-<!---
-NatoAnwandter/NatoAnwandter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2.- Crear ambiente virtual comando: 
+
+      python -m venv venv
+
+3.- Ejecutar ambiante virtual:
+
+		comando 1: cd venv/scripts
+		comando 2: activate.bat
+
+4.- Ingresar app web:
+
+		comando 1: cd ..
+		comando 2: cd..
+		comando 3: cd ciclo-lineal-de-produccion-main
+
+4.- Instalar libreria comando: 
+
+    pip install -r requirements.txt
+
+5: ejecutar servidor:
+
+		comando1: python manage.py runserver
+
+		
